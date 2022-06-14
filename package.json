@@ -1,0 +1,19 @@
+{
+  "name": "quote-api",
+  "version": "1.0.0",
+  "description": "Quote APIs Microservices",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "yogeshwar bari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
